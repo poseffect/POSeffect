@@ -1,0 +1,9 @@
+Building PosEffect
+
+See doc/readme-qt.rst for instructions on building PosEffect QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PosEffect.
+
+See doc/build-*.txt for instructions on building PosEffectd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PosEffect.
